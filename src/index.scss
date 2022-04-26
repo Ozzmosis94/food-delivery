@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.inner {
+  width: 100%;
+  max-width: 1110px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+input {
+  outline: none;
+}

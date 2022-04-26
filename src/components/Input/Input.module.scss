@@ -1,0 +1,21 @@
+.main {
+  position: relative;
+}
+
+.icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.input {
+  border: 1px solid #c7c8d2;
+  box-sizing: border-box;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.1px;
+  color: #83859c;
+  padding: 12px 40px 12px 12px;
+}
